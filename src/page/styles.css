@@ -1,0 +1,38 @@
+.form {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-content input {
+  margin-bottom: 7px;
+}
+
+.form-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.add-button {
+  width: 40px;
+  height: 30px;
+}
