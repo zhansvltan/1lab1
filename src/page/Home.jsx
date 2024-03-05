@@ -1,5 +1,4 @@
 import "./styles.css";
-import List from "./List";
 import { useNavigate } from "react-router-dom";
 
 export default function Home() {
