@@ -55,7 +55,7 @@ export default function Add() {
           onChange={handleSurnameChange}
           type="text"
           name="surname"
-          placeholder="Last Name"
+          placeholder="Surname"
         />
         <input
           value={phone}
